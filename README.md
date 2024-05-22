@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Sufiyan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=CCxPp%2bIQI7h8Ig&riu=http%3a%2f%2fjavanrayan.com%2fimages%2f1397%2f08%2f17%2fprogrammer.gif&ehk=SSyT4%2faf8JThO%2boBBzorrPrIZY4y6gBsmpYphb%2fgDdo%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaansufiyan&label=Profile%20views&color=0e75b6&style=flat" alt="amaansufiyan" /> </p>
