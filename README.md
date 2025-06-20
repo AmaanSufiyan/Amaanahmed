@@ -60,7 +60,9 @@
 ### 📫 How to reach me
 
 - Email: **amaanahmed132@gmail.com**
+- Phone: **+94 755357739**
 - Discord: **amaanahmed_123**
+- Linedin: **Amaan Ahamed**
 
 ---
 
