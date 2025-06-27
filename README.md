@@ -21,21 +21,17 @@
 
 ---
 
-### 🌍 Languages I Know
+### 🌍 Languages I Speak & Code In
 
-#### 🗣️ Spoken Languages
-- English 🇬🇧
-- Tamil 🇱🇰
-- Sinhala 🇱🇰
-
-#### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python,php" />
-</p>
+- 🗣️ **Spoken Languages**: English 🇬🇧 | Tamil 🇱🇰 | Sinhala 🇱🇰  
+- 💻 **Programming Languages**:  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python,php" />
+  </p>
 
 ---
 
-### 🧰 Tools & Technologies
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode,androidstudio" />
@@ -72,7 +68,7 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🚀 2025 Goals
 
 - 💼 Launch a full-stack SaaS product  
 - 🎥 Start a dev vlog on YouTube  
